@@ -1,5 +1,5 @@
 ## Markdown #1
-### my first markdown
+### the step in Git Bash for my first markdown
 * git pull https://github.com/Geschwindigkeitsbegrenzung/datasciencecoursera.git
 * touch HelloWorld.md
 * git add .
