@@ -1,4 +1,4 @@
-## Markdown 1
+## This is a markdown file
 ### the steps in Git Bash for my first markdown
 * cd datasciencecoursera
 * git pull https://github.com/Geschwindigkeitsbegrenzung/datasciencecoursera.git
